@@ -1,0 +1,16 @@
+id,image_path,pdf_filename,page_number,tags,image_type,business_name,business_reference,uploaded_at
+1,extracted_images/appyeater_page1.png,appyeater.pdf,1,"logo, extracted",logo,Appyeater,APPYEATER,2025-07-16 19:26:24.202931
+2,extracted_images/blo _page1.png,blo .pdf,1,"logo, extracted",logo,Blo ,BLO ,2025-07-16 19:26:24.270991
+3,extracted_images/c1_page1.png,c1.pdf,1,"logo, extracted",logo,C1,C1,2025-07-16 19:26:24.299843
+4,extracted_images/c2_page1.png,c2.pdf,1,"logo, extracted",logo,C2,C2,2025-07-16 19:26:24.336337
+5,extracted_images/c3_page1.png,c3.pdf,1,"logo, extracted",logo,C3,C3,2025-07-16 19:26:24.358987
+6,extracted_images/c4_page1.png,c4.pdf,1,"logo, extracted",logo,C4,C4,2025-07-16 19:26:24.409434
+7,extracted_images/coffee_page1.png,coffee.pdf,1,"logo, extracted",logo,Coffee,COFFEE,2025-07-16 19:26:24.454750
+8,extracted_images/empire-state-cons_page1.png,empire-state-cons.pdf,1,"logo, extracted",logo,Empire-State-Cons,EMPIRE-STATE-CONS,2025-07-16 19:26:24.680989
+9,extracted_images/fifa_page1.png,fifa.pdf,1,"logo, extracted",logo,Fifa,FIFA,2025-07-16 19:26:24.726478
+10,extracted_images/img-l_page1.png,img-l.pdf,1,"logo, extracted",logo,Img-L,IMG-L,2025-07-16 19:26:24.883453
+11,extracted_images/influ_page1.png,influ.pdf,1,"logo, extracted",logo,Influ,INFLU,2025-07-16 19:26:24.922662
+12,extracted_images/jewson_page1.png,jewson.pdf,1,"logo, extracted",logo,Jewson,JEWSON,2025-07-16 19:26:24.966592
+13,extracted_images/manchester_page1.png,manchester.pdf,1,"logo, extracted",logo,Manchester,MANCHESTER,2025-07-16 19:26:25.047333
+14,extracted_images/nike_page1.png,nike.pdf,1,"logo, extracted",logo,Nike,NIKE,2025-07-16 19:26:25.113758
+15,extracted_images/yankees_page1.png,yankees.pdf,1,"logo, extracted",logo,Yankees,YANKEES,2025-07-16 19:26:25.177447
