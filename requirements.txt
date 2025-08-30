@@ -8,4 +8,8 @@ pillow==9.5.0
 numpy==1.24.3
 pydantic==1.10.8
 python-jose[cryptography]==3.3.0
+<<<<<<< HEAD
 passlib[bcrypt]==1.7.4 
+=======
+passlib[bcrypt]==1.7.4
+>>>>>>> 3aee4d06da9da021b975b4773e91d3751f8dd4bd
